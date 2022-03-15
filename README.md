@@ -2,23 +2,25 @@
 > Kő papír olló projektmunka
 
 ## Table of contents
-* [General info](#general-info)
-* [Screenshots](#screenshots)
-* [Written in](#written-in)
-* [Webpage (NOT AVAIBLE YET!)](#webpageNOTAVAIBLEYET!)
-* [Status](#status)
-* [Contact](#contact)
+- [ko_papir_ollo](#ko_papir_ollo)
+  - [Table of contents](#table-of-contents)
+  - [General info](#general-info)
+  - [Screenshots](#screenshots)
+  - [Written in](#written-in)
+  - [Webpage (NOT AVAIBLE YET!)](#webpage-not-avaible-yet)
+  - [Status](#status)
+  - [Contact](#contact)
 
 ## General info
-Basic kő papír olló játék HTML, CSS, JS használatával.
+Basic kő papír olló játék HTML, CSS, JS használatával.\
 Gép ellen mérhetjuk fel tudásunkat (szerencsénket).
 
 ## Screenshots
 ![Ingame Screenshot](./screenshot.png)
 
 ## Written in
-HTML
-CSS
+HTML\
+CSS\
 JavaScript
 
 ## Webpage (NOT AVAIBLE YET!)
