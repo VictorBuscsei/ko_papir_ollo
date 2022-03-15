@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="hu">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/model.css">
+    <title>Kő papír olló - játék</title>
+</head>
+
+<body>
+    <header>
+        <h1 class="title">Kő - papír - olló</h1>
+    </header>
+
+
+    <div class="score-board">
+        <div id="user-badge" class="badge">Te</div>
+        <div id="pc-badge" class="badge">Gép</div>
+        <span id="user-score">0</span>:<span id="pc-score">0</span>
+    </div>
+    <div class="choices">
+        <div id="ko" class="choice">
+            <img src="kepek/ko.png" alt="">
+        </div>
+        <div id="papir" class="choice">
+            <img src="kepek/papir.png" alt="">
+        </div>
+        <div id="ollo" class="choice">
+            <img src="kepek/ollo.png" alt="">
+        </div>
+    </div>
+    <h2>Make your choice</h2>
+
+    <!-- model -->
+    <div class="model">
+        <div id="result" class="model-content"></div>
+    </div>
+    <div class="btn-container">
+        <button id="restart" class="restart-btn">Játék újraindítása</button>
+    </div>
+    <div class="area">
+        <ul class="circles">
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+        </ul>
+    </div>
+    <script src="js/main.js"></script>
+</body>
+
+</html>
