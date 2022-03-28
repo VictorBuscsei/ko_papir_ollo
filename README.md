@@ -7,7 +7,7 @@
   - [General info](#general-info)
   - [Screenshots](#screenshots)
   - [Written in](#written-in)
-  - [Webpage (NOT AVAIBLE YET!)](#webpage-not-avaible-yet)
+  - [Webpage](#webpage)
   - [Status](#status)
   - [Contact](#contact)
 
@@ -23,8 +23,8 @@ HTML\
 CSS\
 JavaScript
 
-## Webpage (NOT AVAIBLE YET!)
-Ezen a [linken]() megtekinthető.
+## Webpage
+Ezen a [linken](https://victorbuscsei.ddns.net/ko_papir_ollo/) megtekinthető.
 
 ## Status
 Project is : _in progress_
