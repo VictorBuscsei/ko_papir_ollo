@@ -24,7 +24,7 @@ CSS\
 JavaScript
 
 ## Webpage
-Ezen a [linken](https://victorbuscsei.ddns.net/ko_papir_ollo/) megtekinthető.
+Ezen a [linken](https://victorbuscsei.ddns.net/ko_papir_ollo/) megtekinthető. (Non ssl URL!)
 
 ## Status
 Project is : _finished_
