@@ -27,7 +27,6 @@ JavaScript
 Ezen a [linken](https://victorbuscsei.ddns.net/ko_papir_ollo/) megtekinthető. (Non ssl URL!)
 ## Status
 Project is : _finished_
-
 ## Contact
 Created by [@VictorBuscsei](https://github.com/VictorBuscsei) <br></br><sub> Meh (view source by clicking "Raw")</sub>
 <!-- Azok a cseszett div-ek megőritenek:D-->
